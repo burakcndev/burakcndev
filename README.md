@@ -9,8 +9,7 @@
 
 ## 🚨 Bilgilendirme
 
-- Eski GitHub hesabım: **[@gebesburakcan](https://github.com/gebesburakcan)**
-- Bu hesabı **artık kullanmıyorum**
+- Eski GitHub hesabım: **[@gebesburakcan](https://github.com/gebesburakcan)** bu hesabı **artık kullanmıyorum**
 - Yeni ve güncel çalışmalarım **yalnızca bu hesapta** yer alacaktır
 
 ---
