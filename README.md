@@ -58,7 +58,7 @@ HTML · CSS · JavaScript · PHP · Laravel · React Native · Swift · Firebase
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakcndev&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burakcndev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
