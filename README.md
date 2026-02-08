@@ -47,7 +47,6 @@ HTML · CSS · JavaScript · PHP · Laravel · React Native · Swift · Firebase
 - UI / UX Tasarımı
 - Responsive Uygulamalar
 - Kullanıcı deneyimi odaklı projeler
-- Oyun geliştirme
 
 ---
 
