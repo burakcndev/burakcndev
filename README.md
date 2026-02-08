@@ -17,8 +17,7 @@
 ## 🚀 Hakkımda
 
 UI ve UX odaklı, **insanlığa fayda sağlayan** mobil ve web uygulamaları geliştirmeyi hedefliyorum.  
-Mobil uygulama geliştirme ve responsive yapılar önceliğimdir.  
-Oyun geliştirme ise aktif olarak **merak ettiğim ve ilgilendiğim** bir alandır.
+Mobil uygulama geliştirme ve responsive yapılar önceliğimdir.
 
 ---
 
@@ -33,11 +32,11 @@ Oyun geliştirme ise aktif olarak **merak ettiğim ve ilgilendiğim** bir aland�
   <img src="https://skillicons.dev/icons?i=react" width="48" title="React Native" />
   <img src="https://skillicons.dev/icons?i=swift" width="48" title="Swift / SwiftUI" />
   <img src="https://skillicons.dev/icons?i=firebase" width="48" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" title="Supabase" />
 </p>
 
-
 <p align="center">
-HTML · CSS · JavaScript · PHP · Laravel · React Native · Swift · Firebase
+HTML · CSS · JavaScript · PHP · Laravel · React Native · Swift · Firebase · Supabase
 </p>
 
 ---
@@ -48,11 +47,12 @@ HTML · CSS · JavaScript · PHP · Laravel · React Native · Swift · Firebase
 - UI / UX Tasarımı
 - Responsive Uygulamalar
 - Kullanıcı deneyimi odaklı projeler
-- Oyun geliştirme (ilgi alanı)
+- Oyun geliştirme
 
 ---
 
 ## 📈 GitHub İstatistikleri
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=burakcndev&show_icons=true&theme=tokyonight" />
 </p>
